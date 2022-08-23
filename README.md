@@ -1,4 +1,5 @@
 # Seleção de Desenvolvedor de Software - Escribo / Teste Técnico 01
+<h2> Funcionamento do projeto<h2/>
 <p>para rodar o projeto é necessário possuir o <a href="https://nodejs.org/en/">Node.js</a> instado no computador<p/>
 <img src="https://drive.google.com/uc?export=view&id=1j4k1LAqiPmhPSSCJ_YCi9L3QRS-wGXe0" width="500">
 <p>
@@ -13,4 +14,16 @@
   e chamar um "console.log()" com essa variável como parâmetro.
  <p/>
  <img src="https://drive.google.com/uc?export=view&id=1n2l-YoHPXfjru6RPFmWky3bjmbiojsNa" width="500">
+ 
+ 
+  <h2> instalação do Node.js<h2/>
+  <p>Para instalar o Node.js basta seguir os passoas abaixo<p/>
+  <p>Acesse o site do Node.js <a href="https://nodejs.org/en/">Clicando aqui</a> <p/>
+  <img src="https://drive.google.com/uc?export=view&id=1xSUzNyg78hwhsqAqYCjw0X1QxJWzwBxv" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-01-tela-boas-vindas.png" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-02-termos-de-uso.png" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-03-local-da-instalacao.png" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-04-personalizar-instalacao.png" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-05-ferramenta-compilacao-modulos-nativos.png" width="500"><br>
+  <img src="https://dicasdejavascript.com.br/images/instalacao-nodejs-windows/instalador-nodejs-06-Install.png" width="500"><br>
 
