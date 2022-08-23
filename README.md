@@ -1,5 +1,6 @@
 # Seleção de Desenvolvedor de Software - Escribo / Teste Técnico 01
-<h2> Funcionamento do projeto<h2/>
+# Funcionamento do projeto
+
 <p>para rodar o projeto é necessário possuir o <a href="https://nodejs.org/en/">Node.js</a> instado no computador<p/>
 <img src="https://drive.google.com/uc?export=view&id=1j4k1LAqiPmhPSSCJ_YCi9L3QRS-wGXe0" width="500">
 <p>
@@ -16,7 +17,7 @@
  <img src="https://drive.google.com/uc?export=view&id=1n2l-YoHPXfjru6RPFmWky3bjmbiojsNa" width="500">
  
  
-  <h2> instalação do Node.js<h2/>
+  # instalação do Node.js
   <p>Para instalar o Node.js basta seguir os passoas abaixo<p/>
   <p>Acesse o site do Node.js <a href="https://nodejs.org/en/">Clicando aqui</a> <p/>
   <img src="https://drive.google.com/uc?export=view&id=1xSUzNyg78hwhsqAqYCjw0X1QxJWzwBxv" width="500"><br>
